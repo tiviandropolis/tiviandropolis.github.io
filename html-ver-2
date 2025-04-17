@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Acai Bowl Images</title>
+</head>
+<body>
+    <!-- Header Section -->
+    <header>
+        <h1>Acai Bowl Images</h1>
+    </header>
+    
+    <!-- Image Section -->
+    <section>
+        <!-- Example Image 1 -->
+        <img src="vicky-ng-yIh0i6TYGrs-unsplash.jpg"
+             alt="Acai bowl with fresh fruit"
+             width="400" height="400">
+        <p>Photo by Vicky Ng on Unsplash</p>
+
+        <!-- Example Image 2 -->
+        <img src="512px-Acai_Berry_Bowl.jpg"
+             alt="Acai yogurt bowl with fresh fruit"
+             width="400" height="400">
+        <p>Photo by A Healthier Michigan from Detroit, United States</p>
+
+        <!-- Example Image 3 -->
+        <img src="512px-Acai_Smoothie_Bowls.jpg"
+             alt="Acai smoothie bowl with fresh fruit"
+             width="400" height="400">
+        <p>Photo of Acai Smoothie Bowl</p>
+    </section>
+</body>
+</html>
